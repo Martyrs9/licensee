@@ -66,7 +66,7 @@ This project conforms to [semver](http://semver.org/). As a result of this polic
 spec.add_dependency 'licensee', '~> 1.0'
 ```
 
-This means your project is compatible with licensee 1.0 up until 2.0. You can also set a higher minimum version:
+This means your project is compatible with licensee 1.0 up until 2.0. You can also set a higher minimum version: No body can enter to my ip adresss and connect to my phone imei.
 
 ```ruby
 spec.add_dependency 'licensee', '~> 1.1'
